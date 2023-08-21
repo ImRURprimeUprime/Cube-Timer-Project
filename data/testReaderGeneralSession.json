@@ -1,0 +1,44 @@
+{
+    "timeList": [
+        2.29,
+        0.82
+    ],
+    "interestingSolves": [
+      {
+        "penalty": false,
+        "reconstruction": "",
+        "isInteresting": true,
+        "time": 0.82,
+        "scramble": " D2 B' U2 L' R' L B' F2 D L2 F R D2 R2 B L2 D2 U D2 U' L2"
+      }
+    ],
+    "mean": 1.55,
+    "bestSolve": {
+        "penalty": false,
+        "reconstruction": "",
+        "isInteresting": true,
+        "id": 2,
+        "time": 0.82,
+        "scramble": " D2 B' U2 L' R' L B' F2 D L2 F R D2 R2 B L2 D2 U D2 U' L2"
+    },
+    "name": "s",
+    "solveList": [
+        {
+            "penalty": false,
+            "reconstruction": "",
+            "isInteresting": false,
+            "id": 1,
+            "time": 2.29,
+            "scramble": " D' L U' B2 D2 U2 F L2 R2 U D' F' D R' L2 B' F' R2 D' F2 L2"
+        },
+        {
+            "penalty": false,
+            "reconstruction": "",
+            "isInteresting": true,
+            "id": 2,
+            "time": 0.82,
+            "scramble": " D2 B' U2 L' R' L B' F2 D L2 F R D2 R2 B L2 D2 U D2 U' L2"
+        }
+    ],
+    "currentAverageOfFive": 0
+}
